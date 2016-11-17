@@ -16,10 +16,10 @@ This is to grasp rapidly the language and its concepts.
 #### Topics
 ```
 Java Tutorial
-[ ] Java - Home
-[ ] Java - Overview
-[ ] Java - Environment Setup
-[ ] Java - Basic Syntax
+[x] Java - Home
+[x] Java - Overview
+[x] Java - Environment Setup
+[x] Java - Basic Syntax
 [ ] Java - Object & Classes
 [ ] Java - Basic Datatypes
 [ ] Java - Variable Types
