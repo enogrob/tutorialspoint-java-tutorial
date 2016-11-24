@@ -20,7 +20,7 @@ Java Tutorial
 [x] Java - Overview
 [x] Java - Environment Setup
 [x] Java - Basic Syntax
-[ ] Java - Object & Classes
+[x] Java - Object & Classes
 [ ] Java - Basic Datatypes
 [ ] Java - Variable Types
 [ ] Java - Modifier Types
