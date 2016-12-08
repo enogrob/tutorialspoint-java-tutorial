@@ -26,8 +26,8 @@ Java Tutorial
 [x] Modifier Types
 [x] Basic Operators
 [x] Loop Control
-[ ] Decision Making
-[ ] Numbers
+[x] Decision Making
+[x] Numbers
 [ ] Characters
 [ ] Strings
 [ ] Arrays
