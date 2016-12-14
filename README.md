@@ -28,7 +28,7 @@ Java Tutorial
 [x] Loop Control
 [x] Decision Making
 [x] Numbers
-[ ] Characters
+[x] Characters
 [ ] Strings
 [ ] Arrays
 [ ] Date & Time
