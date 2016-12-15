@@ -29,7 +29,7 @@ Java Tutorial
 [x] Decision Making
 [x] Numbers
 [x] Characters
-[ ] Strings
+[x] Strings
 [ ] Arrays
 [ ] Date & Time
 [ ] Regular Expressions
