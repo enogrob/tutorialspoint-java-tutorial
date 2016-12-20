@@ -30,7 +30,7 @@ Java Tutorial
 [x] Numbers
 [x] Characters
 [x] Strings
-[ ] Arrays
+[x] Arrays
 [ ] Date & Time
 [ ] Regular Expressions
 [ ] Methods
@@ -73,4 +73,3 @@ Selected Reading
 [ ] Computer Glossary
 [ ] Who is Who
 ```
-
